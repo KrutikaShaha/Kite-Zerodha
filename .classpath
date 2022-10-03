@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/Apache POI Library/Apache POI Library/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/byte-buddy-1.12.10.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/failsafe-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-buffer-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-codec-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-codec-http-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-codec-socks-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-handler-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-handler-proxy-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-resolver-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-transport-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-transport-classes-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-transport-classes-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-transport-native-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-transport-native-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/netty-transport-native-unix-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-api-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-context-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-exporter-logging-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-common-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-logs-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-metrics-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-sdk-trace-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/opentelemetry-semconv-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-api-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-api-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-chrome-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-chrome-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-chromium-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-chromium-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v85-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v85-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v101-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v101-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v102-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v102-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v103-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-devtools-v103-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-edge-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-edge-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-firefox-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-firefox-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-http-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-http-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-ie-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-ie-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-java-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-java-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-json-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-json-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-opera-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-opera-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-remote-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-remote-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-safari-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-safari-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-support-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/selenium-support-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Other Softeware/selenium/main/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

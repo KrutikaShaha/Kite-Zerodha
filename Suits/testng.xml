@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Zerodha_Kite_TestClasses.TC008_VerifySearchBoxFuctinality"/>
+      <class name="Zerodha_Kite_TestClasses.TC002_VerifyOrdersTabByClickingOnIt"/>
+      <class name="Zerodha_Kite_TestClasses.TC009_VerifySellFunctinality"/>
+      <class name="Zerodha_Kite_TestClasses.TC001_VerifyLogInLogOutFuctionality"/>
+      <class name="Zerodha_Kite_TestClasses.TC005_VerifyFundsTabByClickingOnIt"/>
+      <class name="Zerodha_Kite_TestClasses.TC010_VerifyQuantityFieldShouldByDefaultOne"/>
+      <class name="Zerodha_Kite_TestClasses.TC007_VerifyBuyFunctinality"/>
+      <class name="Zerodha_Kite_TestClasses.TC003_VerifyHoldingsTagByClickingOnIt"/>
+      <class name="Zerodha_Kite_TestClasses.TC004_VeryfyPositionsTabByClickingOnIt"/>
+      <class name="Zerodha_Kite_TestClasses.TC006_VerifyAppTabByClickingOnIt"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
